@@ -1,3 +1,5 @@
+package basico;
+
 public class OlaMundo {
     public static void main(String[] args) {
         // Numeros (int, double, float, long)
