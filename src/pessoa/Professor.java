@@ -10,6 +10,8 @@ public class Professor extends {
 
     public void setSalario(double salario) {
         this.salario = salario;
+
+        
     }
 
 }
