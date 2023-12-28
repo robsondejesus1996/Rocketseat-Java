@@ -29,6 +29,9 @@ public class CondicaoMultiplaEscolha {
                 System.out.println("Aranha");
             break;
 
+            case 10:
+                System.out.println();
+
             default:
                 System.out.println("ET");
         }
