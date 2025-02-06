@@ -3,13 +3,10 @@ package variaveis;
 public class Variaveis {
 
     public static void main(String[] args) {
-        String nome = "Robson";
-        final String sobrenome = "Jesus";
 
-        var dados = sobrenome + "teste";
-        System.out.println(dados);
+        String nome = "Robson de Jesus";
 
-        System.out.println(nome);
+        System.out.println("Bem-vindo, "+ nome);
     }
 
 }
